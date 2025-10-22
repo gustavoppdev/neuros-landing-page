@@ -35,7 +35,7 @@ export async function generateMetadata(): Promise<Metadata> {
     title: metadata.title,
     description: metadata.description,
     keywords: metadata.keywords,
-    // metadataBase: new URL("https://gustavoppdev.vercel.app"),
+    metadataBase: new URL("https://neuros-landing-page.vercel.app"),
     icons: {
       icon: metadata.favicon,
       shortcut: metadata.favicon,
@@ -59,7 +59,7 @@ export default async function RootLayout({ children, params }: Props) {
   }
   return (
     <html lang={locale} suppressHydrationWarning>
-      <body className={`${dmSans.variable} ${inter.variable} antialiased `}>
+      <body className={`${dmSans.variable} ${inter.variable} antialiased`}>
         <NextIntlClientProvider>
           <ThemeProvider
             attribute={"class"}

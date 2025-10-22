@@ -7,7 +7,7 @@ Inclui suporte a **modo claro/escuro**, **internacionalização (pt/en)** e **an
 
 ## 🖥️ Preview
 
-🔗 **Live Demo:** [Neuros](https://neuros.vercel.app)
+🔗 **Live Demo:** [Neuros](https://neuros-landing-page.vercel.app)
 
 ou veja abaixo algumas capturas de tela:
 
