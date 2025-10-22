@@ -53,7 +53,6 @@ type Props = {
 };
 
 export default async function RootLayout({ children, params }: Props) {
-  // Ensure that the incoming `locale` is valid
   const { locale } = await params;
   if (!hasLocale(routing.locales, locale)) {
     notFound();
@@ -64,7 +63,7 @@ export default async function RootLayout({ children, params }: Props) {
         <NextIntlClientProvider>
           <ThemeProvider
             attribute={"class"}
-            defaultTheme="light"
+            defaultTheme="system"
             enableSystem
             disableTransitionOnChange
           >

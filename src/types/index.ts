@@ -57,15 +57,6 @@ export type MetadataMessages = {
   description: string;
   keywords: string[];
   favicon: string;
-  openGraph: {
-    title: string;
-    description: string;
-    type: string;
-    url: string;
-    image: string;
-    locale: string;
-    site_name: string;
-  };
 };
 export type ThemeOption = {
   theme: "light" | "dark" | "system";

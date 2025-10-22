@@ -327,14 +327,6 @@
       "dashboards de negócios",
       "automação empresarial"
     ],
-    "favicon": "/favicon.ico",
-    "openGraph": {
-      "title": "Neuros - Inteligência Artificial para Decisões de Negócios",
-      "description": "Transforme dados em insights com a Neuros, a plataforma de análise de negócios impulsionada por IA. Decisões mais inteligentes, seguras e rápidas.",
-      "type": "website",
-      "url": "/og-image.png",
-      "locale": "pt",
-      "site_name": "Neuros"
-    }
+    "favicon": "/favicon.ico"
   }
 }

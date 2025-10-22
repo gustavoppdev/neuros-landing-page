@@ -326,14 +326,6 @@
       "business dashboards",
       "business automation"
     ],
-    "favicon": "/favicon.ico",
-    "openGraph": {
-      "title": "Neuros - Artificial Intelligence for Business Decisions",
-      "description": "Turn data into insights with Neuros, the AI-powered business analytics platform. Smarter, safer, and faster decisions.",
-      "type": "website",
-      "url": "/og-image.png",
-      "locale": "en",
-      "site_name": "Neuros"
-    }
+    "favicon": "/favicon.ico"
   }
 }
