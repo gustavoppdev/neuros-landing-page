@@ -1,0 +1,339 @@
+{
+  "Layout": {
+    "Topbar": {
+      "support": "Support",
+      "blog": "Blog",
+      "aboutUs": {
+        "title": "About us",
+        "story": "Our Story",
+        "team": "Our Team",
+        "mission": "Mission & Vision",
+        "contact": "Contact Us"
+      }
+    },
+    "Navbar": {
+      "navigationLinksWithChildren": {
+        "features": {
+          "title": "Features",
+          "links": {
+            "0": {
+              "label": "AI-based predictions",
+              "description": "Get accurate insights with real-world predictions and advanced artificial intelligence."
+            },
+
+            "1": {
+              "label": "Real-time analytics",
+              "description": "Monitor your business performance with up-to-the-second data and dynamic reports."
+            },
+
+            "2": {
+              "label": "Customizable dashboards",
+              "description": "Create intuitive visual dashboards tailored to your goals and performance indicators."
+            }
+          }
+        },
+        "caseStudies": {
+          "title": "Case Studies",
+          "links": {
+            "0": {
+              "label": "How TechNova Doubled Its Revenue with Neuros",
+              "description": "See how TechNova used intelligent forecasting to boost its global sales."
+            },
+
+            "1": {
+              "label": "BlueMart's Growth Strategy",
+              "description": "Learn how BlueMart turned data into decisions with the help of Neuros."
+            }
+          }
+        }
+      },
+      "childlessNavigationLinks": {
+        "pricing": "Pricing",
+        "applications": "Applications"
+      },
+      "demoBtn": "Get a demo",
+      "freeTrialBtn": "Start your free trial"
+    },
+
+    "Footer": {
+      "navigationLinks": [
+        {
+          "title": "About Neuros",
+          "links": [
+            "Company Overview",
+            "Careers",
+            "Press & Media",
+            "Testimonials"
+          ]
+        },
+        {
+          "title": "Resources",
+          "links": ["Blog", "Help Center", "Webinars & Events", "Case Studies"]
+        },
+        {
+          "title": "Support & Contact",
+          "links": [
+            "Contact Us",
+            "technical Support",
+            "Feedback",
+            "Community Forum"
+          ]
+        },
+        {
+          "title": "Connect",
+          "links": ["Instagram", "Facebook", "Twitter / X", "Linkedin"]
+        }
+      ],
+      "copyright": "© Neuros - All rights reserved.",
+      "terms": "Terms of use",
+      "privacy": "Privacy",
+      "security": "Security"
+    }
+  },
+  "Pages": {
+    "Home": {
+      "Hero": {
+        "introductionBtn": "Generative Intelligence for Analysts",
+        "headline": "Revolutionizing Business Decisions with AI-Powered Analytics",
+        "paragraph": "Harnesses the power of artificial intelligence to transform your business data into actionable insights, propelling you to new heights of success",
+        "freeTrialBtn": "Start your free trial",
+        "watchVideoBtn": "Watch video",
+        "watchIntroductionVideoBtn": "Watch introduce video",
+        "time": "5 mins",
+        "play": "Play video"
+      },
+      "Partners": {
+        "headline": "160,000+ customers in over 120 countries grow their businesses with Neuros"
+      },
+      "Values": {
+        "introductionBtn": "Our Intelligent Approach",
+        "headline": "Intelligent Insights that Drive Smarter Decisions",
+        "paragraph": "Discover how Neuros turns complex data into clear, predictive insights, helping your business anticipate change and make confident, data-driven decisions.",
+        "values": {
+          "0": {
+            "title": "Navigate with Confidence through Precise Predictions",
+            "description": "Embark on a journey of data-driven decision-making with Neuros, where our advanced AI algorithms meticulously analyze historical data and identify emerging patterns, ensuring each forecast is not only accurate but also reliable. Our predictive accuracy empowers your business to anticipate market trends, mitigate risks, and seize opportunities with utmost confidence."
+          },
+          "1": {
+            "title": "Empower Your Forecasts with the Pulse of Real-Time Data",
+            "description": "Neuros’s AI-Driven Forecasts harness the power of advanced machine learning algorithms, ensuring each prediction is not only accurate but also reliable. Navigate through your business journey with confidence, backed by forecasts that meticulously analyze historical data and identify emerging patterns, providing you with precise and trustworthy future insights."
+          },
+          "2": {
+            "title": "Visualize Your Future through Intuitive Dashboards",
+            "description": "Experience a seamless interaction with your predictive data through Neuros’s user-friendly dashboards. Tailor your visualizations to meet your unique analytical needs, ensuring critical insights are always accessible and actionable. With our customizable dashboards, transform complex data into clear, comprehensible visuals, enabling swift and informed decision-making at every business juncture."
+          },
+          "3": {
+            "title": "Seamlessly Integrate and Synchronize Your Analytical Ecosystem",
+            "description": "Neuros is not just a standalone platform but a synergistic solution designed to seamlessly integrate with your existing business tools and platforms. From CRMs to ERPs, Neuros ensures your predictive analytics are always in harmony with your operational data, providing a holistic and unified view of your business trajectory. Experience a platform that not only provides insights but also aligns with your existing technological ecosystem, ensuring consistency and reliability in your forecasting endeavors."
+          }
+        }
+      },
+      "Testimonials": {
+        "headline": "The Neuros Experience",
+        "paragraph": "At Neuros, we pride ourselves on delivering top-notch AI-driven business analytics. But don&apos;t just take our word for it. Hear what our satisfied users have to say.",
+        "testimonials": {
+          "0": {
+            "testimony": "Project management is smoother with Neuros. Its dashboards provide a clear view of progress and areas of improvement.",
+            "author": "Nathan D. Hall",
+            "role": "Project Lead"
+          },
+          "1": {
+            "testimony": "Neuros's real-time data has been crucial in refining our products. Its collaborative features ensure our team is always aligned.",
+            "author": "Naomi K. Johnson",
+            "role": "Product Manager"
+          },
+          "2": {
+            "testimony": "Real-time data processing with Neuros has changed how we make decisions. It's a must-have tool for modern businesses.",
+            "author": "Michael O. Lopez",
+            "role": "Operations Director"
+          },
+          "3": {
+            "testimony": "The seamless integrations and customizable dashboards make Neuros an indispensable tool for our business operations.",
+            "author": "Rajesh K. Patel",
+            "role": "CTO"
+          }
+        }
+      },
+      "Trial": {
+        "headline": "Experience the Future of Business Analytics with Neuros",
+        "freeTrialBtn": "Start your free trial",
+        "benefits": {
+          "0": {
+            "title": "Instant Access",
+            "description": "Begin exploring Neuros's full suite of features immediately"
+          },
+          "1": {
+            "title": "No commitments",
+            "description": "No credit card required, and you can cancel anytime"
+          },
+          "2": {
+            "title": "Dedicated Support",
+            "description": "Our team is here to assist you every step of the way during your trial."
+          }
+        }
+      },
+      "Solutions": {
+        "introductionBtn": "Applications",
+        "headline": "Insights and predictions made easy",
+        "paragraph": "Advanced business intelligence tools enhance efficiency across your entire operation. By predicting future revenue and dissecting marketing effectiveness, these tools provide you with the critical insights needed for informed decision-making.",
+        "exploreMoreBtn": "Explore more application",
+        "benefits": {
+          "0": {
+            "title": "Predictive Power",
+            "description": "Harness Neuros's advanced AI algorithms to anticipate market shifts, forecast trends, and make data-driven decisions that propel your business forward."
+          },
+          "1": {
+            "title": "Connect with Ease",
+            "description": "Integrate Neuros with your existing tools and platforms for a unified analytics experience. From CRMs to ERPs, we've got you covered."
+          },
+          "2": {
+            "title": "Visualize Your Success",
+            "description": "Craft bespoke dashboards that resonate with your brand's goals. With drag-and-drop functionalities, visualizing your data has never been this easy."
+          },
+          "3": {
+            "title": "Stay Updated, Always",
+            "description": "With Neuros's real-time data processing, you're always in the know. Make decisions based on the latest data and stay ahead of the curve."
+          },
+          "4": {
+            "title": "Your Data's Safe Haven",
+            "description": "Rest easy knowing your data is protected with Neuros's top-tier security protocols. From encryption to access controls, we prioritize your data's safety."
+          },
+          "5": {
+            "title": "Collaborate and Conquer",
+            "description": "Work together seamlessly with Neuros's collaborative features. Share insights, annotate charts, and drive collective growth."
+          },
+          "6": {
+            "title": "Simplicity Meets Power",
+            "description": "Neuros offers an intuitive interface that's easy to navigate, ensuring you spend less time figuring things out and more time analyzing."
+          },
+          "7": {
+            "title": "Let AI Do the Heavy Lifting",
+            "description": "Receive automated insights and recommendations tailored to your business needs. Let Neuros's AI guide your strategies."
+          },
+          "8": {
+            "title": "Scale with Confidence",
+            "description": "Whether you're a startup or an enterprise, Neuros scales with you. Experience robust analytics solutions that adapt to your growth."
+          }
+        },
+        "Tags": {
+          "finance": "Finance",
+          "retail": "Retail",
+          "ecommerce": "E-commerce",
+          "tech": "Tech",
+          "healthcare": "Healthcare",
+          "manufacturing": "Manufacturing",
+          "marketing": "Marketing",
+          "sales": "Sales",
+          "operation": "Operation",
+          "logistics": "Logistics",
+          "supplyChain": "Supply Chain",
+          "legal": "Legal",
+          "design": "Design",
+          "development": "Development",
+          "projectManagement": "Project Management",
+          "allIndustries": "All Industries",
+          "startups": "Startups",
+          "SMEs": "SMEs",
+          "enterprises": "Enterprises"
+        }
+      },
+      "FAQ": {
+        "introductionBtn": "FAQ",
+        "headline": "Frequently asked questions",
+        "paragraph": "Explore our frequently asked questions to learn more about Neuros’s features, security, integration capabilities, and more",
+        "faqs": {
+          "0": {
+            "question": "What is Neuros and how does it differ from other analytics platforms?",
+            "anwser": "Neuros is an AI-powered business analytics platform designed to provide real-time insights, predictive analytics, and seamless integrations with various tools. Unlike traditional analytics platforms, Neuros harnesses the power of artificial intelligence to offer more accurate forecasts, customizable dashboards, and a user-friendly interface tailored for businesses of all sizes."
+          },
+          "1": {
+            "question": "How does the AI-driven predictive analytics feature work?",
+            "anwser": "Neuros is an AI-powered business analytics platform designed to provide real-time insights, predictive analytics, and seamless integrations with various tools. Unlike traditional analytics platforms, Neuros harnesses the power of artificial intelligence to offer more accurate forecasts, customizable dashboards, and a user-friendly interface tailored for businesses of all sizes."
+          },
+          "2": {
+            "question": "Is my data secure with Neuros?",
+            "anwser": "Neuros is an AI-powered business analytics platform designed to provide real-time insights, predictive analytics, and seamless integrations with various tools. Unlike traditional analytics platforms, Neuros harnesses the power of artificial intelligence to offer more accurate forecasts, customizable dashboards, and a user-friendly interface tailored for businesses of all sizes."
+          },
+          "3": {
+            "question": "Can I integrate Neuros with other tools and platforms I currently use?",
+            "anwser": "Neuros is an AI-powered business analytics platform designed to provide real-time insights, predictive analytics, and seamless integrations with various tools. Unlike traditional analytics platforms, Neuros harnesses the power of artificial intelligence to offer more accurate forecasts, customizable dashboards, and a user-friendly interface tailored for businesses of all sizes."
+          },
+          "4": {
+            "question": "How is the pricing structured for Neuros? Are there any hidden fees?",
+            "anwser": "Neuros is an AI-powered business analytics platform designed to provide real-time insights, predictive analytics, and seamless integrations with various tools. Unlike traditional analytics platforms, Neuros harnesses the power of artificial intelligence to offer more accurate forecasts, customizable dashboards, and a user-friendly interface tailored for businesses of all sizes."
+          },
+          "5": {
+            "question": "I'm new to business analytics. Does Neuros offer any support or tutorials?",
+            "anwser": "Neuros is an AI-powered business analytics platform designed to provide real-time insights, predictive analytics, and seamless integrations with various tools. Unlike traditional analytics platforms, Neuros harnesses the power of artificial intelligence to offer more accurate forecasts, customizable dashboards, and a user-friendly interface tailored for businesses of all sizes."
+          }
+        }
+      }
+    }
+  },
+  "Others": {
+    "ModeToggle": {
+      "title": "Change theme",
+      "modes": {
+        "light": {
+          "title": "Light",
+          "description": "Switch to Light theme."
+        },
+        "dark": {
+          "title": "Dark",
+          "description": "Switch to Dark theme."
+        },
+        "system": {
+          "title": "System",
+          "description": "Change the theme according to your System."
+        }
+      }
+    },
+    "LanguageSwitcher": {
+      "title": "Change language",
+      "languages": {
+        "pt": {
+          "title": "Português (Brasil",
+          "description": "Switch to the Portuguese language"
+        },
+        "en": {
+          "title": "English (US)",
+          "description": "Switch to the English language."
+        }
+      }
+    },
+    "Aria": {
+      "openMenuMobile": "Open menu mobile",
+      "closeMenuMobile": "Close menu mobile",
+      "watchVideoBtn": "Watch video"
+    },
+    "NotFoundPage": {
+      "code": "404",
+      "title": "Page not found",
+      "description": "Sorry, we couldn’t find the page you’re looking for.",
+      "goBackHomeBtn": "Go back home"
+    }
+  },
+  "metadata": {
+    "title": "Neuros - Artificial Intelligence for Business Decisions",
+    "description": "Neuros transforms data into strategic decisions with AI. Get accurate forecasts, personalized dashboards, and real-time insights to drive your company's growth.",
+    "keywords": [
+      "artificial intelligence",
+      "data analysis",
+      "business forecasting",
+      "business intelligence",
+      "predictive analytics",
+      "AI tools",
+      "business dashboards",
+      "business automation"
+    ],
+    "favicon": "/favicon.ico",
+    "openGraph": {
+      "title": "Neuros - Artificial Intelligence for Business Decisions",
+      "description": "Turn data into insights with Neuros, the AI-powered business analytics platform. Smarter, safer, and faster decisions.",
+      "type": "website",
+      "url": "/og-image.png",
+      "locale": "en",
+      "site_name": "Neuros"
+    }
+  }
+}

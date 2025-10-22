@@ -1,0 +1,340 @@
+{
+  "Layout": {
+    "Topbar": {
+      "support": "Suporte",
+      "blog": "Blog",
+      "aboutUs": {
+        "title": "Sobre nós",
+        "story": "Nossa história",
+        "team": "Nosso time",
+        "mission": "Missão e visão",
+        "contact": "Fale conosco"
+      }
+    },
+    "Navbar": {
+      "navigationLinksWithChildren": {
+        "features": {
+          "title": "Recursos",
+          "links": {
+            "0": {
+              "label": "Previsões orientadas por IA",
+              "description": "Obtenha insights precisos com previsões baseadas em dados reais e inteligência artificial avançada."
+            },
+            "1": {
+              "label": "Análises em tempo real",
+              "description": "Monitore o desempenho do seu negócio com dados atualizados a cada segundo e relatórios dinâmicos."
+            },
+            "2": {
+              "label": "Dashboards personalizáveis",
+              "description": "Crie painéis visuais intuitivos e adaptados às suas metas e indicadores de desempenho."
+            }
+          }
+        },
+        "caseStudies": {
+          "title": "Estudos de caso",
+          "links": {
+            "0": {
+              "label": "Como a TechNova dobrou sua receita com Neuros",
+              "description": "Veja como a TechNova usou previsões inteligentes para impulsionar suas vendas globais."
+            },
+            "1": {
+              "label": "Estratégia de crescimento da BlueMart",
+              "description": "Entenda como a BlueMart transformou dados em decisões com a ajuda da Neuros."
+            }
+          }
+        }
+      },
+      "childlessNavigationLinks": {
+        "pricing": "Preços",
+        "applications": "Aplicações"
+      },
+      "demoBtn": "Explorar demo",
+      "freeTrialBtn": "Iniciar teste gratuito"
+    },
+    "Footer": {
+      "navigationLinks": [
+        {
+          "title": "Sobre a Neuros",
+          "links": [
+            "Visão geral da empresa",
+            "Carreiras",
+            "Imprensa e mídia",
+            "Depoimentos"
+          ]
+        },
+        {
+          "title": "Recursos",
+          "links": [
+            "Blog",
+            "Central de ajuda",
+            "Webinars e eventos",
+            "Estudos de caso"
+          ]
+        },
+        {
+          "title": "Suporte e contato",
+          "links": [
+            "Fale conosco",
+            "Suporte técnico",
+            "Feedback",
+            "Fórum da comunidade"
+          ]
+        },
+        {
+          "title": "Conecte-se",
+          "links": ["Instagram", "Facebook", "Twitter / X", "LinkedIn"]
+        }
+      ],
+      "copyright": "© Neuros - Todos os direitos reservados.",
+      "terms": "Termos de uso",
+      "privacy": "Privacidade",
+      "security": "Segurança"
+    }
+  },
+  "Pages": {
+    "Home": {
+      "Hero": {
+        "introductionBtn": "Inteligência Generativa para Analistas",
+        "headline": "Revolucione suas decisões de negócio com análises baseadas em IA",
+        "paragraph": "A Neuros transforma dados complexos em insights práticos e estratégicos, ajudando sua empresa a crescer com confiança e inteligência.",
+        "freeTrialBtn": "Iniciar avaliação gratuita",
+        "watchVideoBtn": "Assistir vídeo",
+        "watchIntroductionVideoBtn": "Ver vídeo de introdução",
+        "time": "5 minutos",
+        "play": "Reproduzir vídeo"
+      },
+      "Partners": {
+        "headline": "Mais de 160.000 empresas em 120 países impulsionam seus resultados com a Neuros"
+      },
+      "Values": {
+        "introductionBtn": "Nossa Abordagem Inteligente",
+        "headline": "Inteligência que transforma dados em decisões assertivas",
+        "paragraph": "Descubra como a Neuros converte informações complexas em previsões precisas e estratégicas para o futuro do seu negócio.",
+        "values": {
+          "0": {
+            "title": "Tome decisões com confiança usando previsões precisas",
+            "description": "Com algoritmos de IA avançados, a Neuros analisa dados históricos e identifica padrões de mercado para oferecer previsões confiáveis e acionáveis."
+          },
+          "1": {
+            "title": "Insights em tempo real para acompanhar o ritmo do mercado",
+            "description": "Tenha acesso a dados atualizados constantemente, permitindo ajustes rápidos e decisões baseadas nas tendências mais recentes."
+          },
+          "2": {
+            "title": "Visualize resultados de forma simples e impactante",
+            "description": "Com dashboards interativos e personalizáveis, você enxerga o desempenho da sua empresa de forma clara, intuitiva e estratégica."
+          },
+          "3": {
+            "title": "Integração fluida com suas ferramentas de negócios",
+            "description": "A Neuros conecta-se facilmente a CRMs, ERPs e outras plataformas, centralizando seus dados e oferecendo uma visão completa do seu negócio."
+          }
+        }
+      },
+      "Testimonials": {
+        "headline": "A experiência Neuros",
+        "paragraph": "Empresas de todos os tamanhos confiam na Neuros para transformar seus dados em resultados reais. Veja o que nossos clientes têm a dizer:",
+        "testimonials": {
+          "0": {
+            "testimony": "A gestão de projetos ficou muito mais eficiente com a Neuros. Os dashboards facilitam a visualização de progresso e gargalos.",
+            "author": "Nathan D. Hall",
+            "role": "Líder de Projetos"
+          },
+          "1": {
+            "testimony": "Os dados em tempo real da Neuros foram essenciais para aprimorar nossos produtos. A colaboração entre equipes nunca foi tão fácil.",
+            "author": "Naomi K. Johnson",
+            "role": "Gerente de Produto"
+          },
+          "2": {
+            "testimony": "A análise de dados em tempo real mudou completamente nossa forma de tomar decisões. É uma ferramenta indispensável.",
+            "author": "Michael O. Lopez",
+            "role": "Diretor de Operações"
+          },
+          "3": {
+            "testimony": "As integrações e dashboards personalizáveis tornam a Neuros parte essencial da nossa rotina de negócios.",
+            "author": "Rajesh K. Patel",
+            "role": "CTO"
+          }
+        }
+      },
+      "Trial": {
+        "headline": "Experimente o futuro da análise de negócios com a Neuros",
+        "freeTrialBtn": "Começar avaliação gratuita",
+        "benefits": {
+          "0": {
+            "title": "Acesso imediato",
+            "description": "Explore todos os recursos da Neuros assim que criar sua conta."
+          },
+          "1": {
+            "title": "Sem compromissos",
+            "description": "Não é necessário cartão de crédito, e você pode cancelar a qualquer momento."
+          },
+          "2": {
+            "title": "Suporte dedicado",
+            "description": "Nossa equipe está disponível para ajudar em cada etapa do período de teste."
+          }
+        }
+      },
+      "Solutions": {
+        "introductionBtn": "Aplicações",
+        "headline": "Insights e previsões de forma simples",
+        "paragraph": "Ferramentas inteligentes de análise de negócios que aumentam a eficiência de toda a operação. Preveja receitas, avalie campanhas e descubra oportunidades com dados claros e precisos.",
+        "exploreMoreBtn": "Explorar mais aplicações",
+        "benefits": {
+          "0": {
+            "title": "Poder de previsão",
+            "description": "Antecipe tendências e tome decisões baseadas em dados com os algoritmos de IA da Neuros."
+          },
+          "1": {
+            "title": "Integração descomplicada",
+            "description": "Conecte a Neuros às ferramentas que você já utiliza — de CRMs a ERPs — para uma análise completa."
+          },
+          "2": {
+            "title": "Visualize seu sucesso",
+            "description": "Crie dashboards que traduzem seus objetivos em métricas claras e fáceis de acompanhar."
+          },
+          "3": {
+            "title": "Sempre atualizado",
+            "description": "Com dados em tempo real, suas decisões serão baseadas nas informações mais recentes e confiáveis."
+          },
+          "4": {
+            "title": "Segurança em primeiro lugar",
+            "description": "Seus dados são protegidos com os mais altos padrões de segurança, incluindo criptografia e controle de acesso."
+          },
+          "5": {
+            "title": "Colabore com sua equipe",
+            "description": "Compartilhe relatórios, comente análises e trabalhe em conjunto de forma fluida e eficiente."
+          },
+          "6": {
+            "title": "Interface simples e poderosa",
+            "description": "Navegue facilmente e aproveite todo o potencial da plataforma sem complicações."
+          },
+          "7": {
+            "title": "Deixe a IA trabalhar por você",
+            "description": "Receba recomendações automáticas e estratégias otimizadas para o seu negócio."
+          },
+          "8": {
+            "title": "Cresça com confiança",
+            "description": "A Neuros acompanha o crescimento da sua empresa, oferecendo soluções que escalam junto com você."
+          }
+        },
+        "Tags": {
+          "finance": "Finanças",
+          "retail": "Varejo",
+          "ecommerce": "E-commerce",
+          "tech": "Tecnologia",
+          "healthcare": "Saúde",
+          "manufacturing": "Manufatura",
+          "marketing": "Marketing",
+          "sales": "Vendas",
+          "operation": "Operações",
+          "logistics": "Logística",
+          "supplyChain": "Cadeia de suprimentos",
+          "legal": "Jurídico",
+          "design": "Design",
+          "development": "Desenvolvimento",
+          "projectManagement": "Gestão de projetos",
+          "allIndustries": "Todos os setores",
+          "startups": "Startups",
+          "SMEs": "PMEs",
+          "enterprises": "Grandes empresas"
+        }
+      },
+      "FAQ": {
+        "introductionBtn": "FAQ",
+        "headline": "Perguntas frequentes",
+        "paragraph": "Encontre respostas para as dúvidas mais comuns sobre recursos, segurança e integrações da Neuros.",
+        "faqs": {
+          "0": {
+            "question": "O que é a Neuros e como ela se diferencia de outras plataformas de análise?",
+            "anwser": "A Neuros é uma plataforma de análise de negócios impulsionada por inteligência artificial. Ela oferece previsões precisas, dashboards personalizáveis e integração com ferramentas populares — tudo com foco em tornar suas decisões mais inteligentes e estratégicas."
+          },
+          "1": {
+            "question": "Como funcionam as previsões baseadas em IA?",
+            "anwser": "A Neuros utiliza aprendizado de máquina para identificar padrões e tendências nos seus dados, gerando previsões confiáveis que ajudam a planejar o futuro do seu negócio com segurança."
+          },
+          "2": {
+            "question": "Meus dados estão seguros na plataforma?",
+            "anwser": "Sim. A Neuros adota protocolos de segurança de nível empresarial, com criptografia e controle de acesso, garantindo que seus dados estejam sempre protegidos."
+          },
+          "3": {
+            "question": "Posso integrar a Neuros com outras ferramentas que já uso?",
+            "anwser": "Sim, a Neuros se integra facilmente a sistemas de CRM, ERP e diversas outras plataformas de negócios, unificando suas análises em um único lugar."
+          },
+          "4": {
+            "question": "Como funciona a precificação? Existem taxas escondidas?",
+            "anwser": "Os planos da Neuros são transparentes e sem taxas ocultas. Você escolhe o pacote que melhor se adapta às suas necessidades e paga apenas pelo que utiliza."
+          },
+          "5": {
+            "question": "Sou iniciante em análise de dados. A Neuros oferece suporte?",
+            "anwser": "Sim. Oferecemos tutoriais, suporte técnico dedicado e uma central de ajuda completa para você aproveitar todo o potencial da plataforma, mesmo sem experiência prévia."
+          }
+        }
+      }
+    }
+  },
+  "Others": {
+    "ModeToggle": {
+      "title": "Trocar Tema",
+      "modes": {
+        "light": {
+          "title": "Claro",
+          "description": "Mudar para o tema Claro."
+        },
+        "dark": {
+          "title": "Escuro",
+          "description": "Mudar para o tema Escuro."
+        },
+        "system": {
+          "title": "Sistema",
+          "description": "Mudar o tema de acordo com o seu Sistema."
+        }
+      }
+    },
+    "LanguageSwitcher": {
+      "title": "Trocar idioma",
+      "languages": {
+        "pt": {
+          "title": "Português (Brasil",
+          "description": "Mudar para o idioma Português."
+        },
+        "en": {
+          "title": "English (US)",
+          "description": "Mudar para o idioma Inglês."
+        }
+      }
+    },
+    "Aria": {
+      "openMenuMobile": "Abrir menu mobile",
+      "closeMenuMobile": "Fechar menu mobile",
+      "watchVideoBtn": "Assistir vídeo"
+    },
+    "NotFoundPage": {
+      "code": "404",
+      "title": "Página não encontrada",
+      "description": "Desculpe, não conseguimos encontrar a página que você está procurando.",
+      "goBackHomeBtn": "Volte para o inicio"
+    }
+  },
+  "metadata": {
+    "title": "Neuros - Inteligência Artificial para Decisões de Negócios",
+    "description": "A Neuros transforma dados em decisões estratégicas com IA. Obtenha previsões precisas, dashboards personalizados e insights em tempo real para impulsionar o crescimento da sua empresa.",
+    "keywords": [
+      "inteligência artificial",
+      "análise de dados",
+      "previsões empresariais",
+      "business intelligence",
+      "análise preditiva",
+      "ferramentas de IA",
+      "dashboards de negócios",
+      "automação empresarial"
+    ],
+    "favicon": "/favicon.ico",
+    "openGraph": {
+      "title": "Neuros - Inteligência Artificial para Decisões de Negócios",
+      "description": "Transforme dados em insights com a Neuros, a plataforma de análise de negócios impulsionada por IA. Decisões mais inteligentes, seguras e rápidas.",
+      "type": "website",
+      "url": "/og-image.png",
+      "locale": "pt",
+      "site_name": "Neuros"
+    }
+  }
+}
